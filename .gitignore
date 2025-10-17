@@ -39,6 +39,8 @@ figures/
 *.hdf5
 *.pkl
 *.pickle
+batterie_Nasa/*.mat
+batterie_Nasa/*.csv
 
 # Modèles et scalers générés
 rul_model.h5
