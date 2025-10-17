@@ -20,7 +20,7 @@ venv/
 .env/
 .venv/
 ENV/
-.it/
+it/
 /Scripts/
 /Include/
 /Lib/
@@ -48,3 +48,4 @@ scaler.pkl
 *.tmp
 *.temp
 ~$*
+.gitinicore
