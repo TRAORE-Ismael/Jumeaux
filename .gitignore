@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+*.log
+*.sqlite3
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environnements virtuels
+venv/
+.env/
+.venv/
+ENV/
+.it/
+/Scripts/
+/Include/
+/Lib/
+/share/
+
+# Notebooks & caches
+.ipynb_checkpoints/
+.mypy_cache/
+.pytype/
+.pytest_cache/
+
+# Données volumineuses / sorties
+Datasets/
+figures/
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# Modèles et scalers générés
+rul_model.h5
+scaler.pkl
+
+# Fichiers temporaires
+*.tmp
+*.temp
+~$*
